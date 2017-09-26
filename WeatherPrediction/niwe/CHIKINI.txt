@@ -1,0 +1,11 @@
+Site Name	:CHIKINI 
+District	:EAST CHAMPARAN
+State Name	:BIHAR
+Commenced on	:02-12-2012
+Closed on	:28-12-2015
+Mast Height	:50 m
+Latitude	:26 degree 59 minute 23.5 Seconds N
+Longitude	:84 degree 49 minute 35 Seconds E
+Elevation	:56 AMSL 
+
+Data Missing: 2013-(09-01-2013 to 08-03-2013 16:10) )(04.10.13 - 22.12.13) 2014- (21.01.14- 04.02.14) (05.03.14 to 15.03.14),17.04.14,  (10.05.14 - 12.05.14), (25.05.14 - 28.05.14) (18.06.14 - 20.06.14) (21.07.14 - 31.12.14) 2015 (01.01.15 to 22.06.15) No data (02.08.15 - 28.12.15)
